@@ -32,7 +32,7 @@ public class TwoSum {
         int[] num={2,7,11,15};
         int[] result=test.twoSum(num,9);
         for (int i:result){
-            System.out.print(result[i]);
+            System.out.print(i);
         }
     }
 }
