@@ -2,5 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/two_pointers/FourSum.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/two_pointers/LinkedListCycle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/two_pointers/MergeSortedArray.java" charset="GBK" />
   </component>
 </project>
