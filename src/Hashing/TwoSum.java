@@ -15,13 +15,13 @@ import java.util.HashMap;
  *
  */
 public class TwoSum {
-    public int[] twoSum(int[]num ,int target){
+    public int[] twoSum(int[]nums ,int target){
         HashMap<Integer,Integer> map=new HashMap<>();
-        for (int i=0;i<num.length;i++){
-            if (map.containsKey(target-num[i])){
-                return new int[]{i,map.get(target-num[i])};
+        for (int i=0;i<nums.length;i++){
+            if (map.containsKey(target-nums[i])){
+                return new int[]{map.get(target-nums[i]),i};
             }else{
-                map.put(num[i],i);
+                map.put(nums[i],i);
             }
         }
         return null;
