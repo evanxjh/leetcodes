@@ -7,6 +7,8 @@ package linked_list;
  * @create: 2019-07-27 13:10
  **/
 
+import org.junit.Test;
+
 /**
  * Reverse a singly linked list.
  *
@@ -45,5 +47,19 @@ public class ReverseLinkedList {
         }
         return sentinal.next;
     }
+    @Test
+    public void sometest(){
+        ListNode l1=new ListNode(1);
+        ListNode l2=new ListNode(2);
+        ListNode l3=new ListNode(3);
+        ListNode l4=new ListNode(4);
+        ListNode l5=new ListNode(5);
+        l1.next=l2;
+        l2.next=l3;
+        l3.next=l4;
+        l4.next=l5;
+        ListNode newlist=reverseList(l1);
+    }
+
 
 }
