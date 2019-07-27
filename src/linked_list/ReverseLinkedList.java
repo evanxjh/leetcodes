@@ -1,0 +1,49 @@
+package linked_list;
+
+/**
+ * @program: leetcodetrain
+ * @description: No.206 Easy
+ * @author: EvenHsia
+ * @create: 2019-07-27 13:10
+ **/
+
+/**
+ * Reverse a singly linked list.
+ *
+ * Example:
+ * Input: 1->2->3->4->5->NULL
+ * Output: 5->4->3->2->1->NULL
+ */
+public class ReverseLinkedList {
+    private class ListNode{
+        int val;
+        ListNode next;
+        ListNode(int x){
+            this.val=x;
+            this.next=null;
+        }
+    }
+
+    //recursively version
+    public ListNode reverseList(ListNode head){
+        if (head==null || head.next==null) return head;
+        ListNode next=head.next;
+        ListNode newhead=reverseList(next);
+        next.next=head;
+        head.next=null;
+        return newhead;
+    }
+
+    //iteratively version  ͷ�巨
+    public ListNode reverselist(ListNode head){
+        ListNode sentinal=new ListNode(-1);
+        while (head!=null){
+            ListNode next=head.next;
+            head.next=sentinal.next;
+            sentinal.next=head;
+            head=next;
+        }
+        return sentinal.next;
+    }
+
+}
