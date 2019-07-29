@@ -25,7 +25,7 @@ public class MergeSortedArray {
         while (index1>=0 || index2>=0){
             if (index1<0){                                      //数组1已归并完，直接归并2
                 nums1[indexmerge--]=nums2[index2--];
-            } else if (index2<0){                               //数组2已归并玩，不需要再操作
+            } else if (index2<0){                               //数组2已归并完，不需要再操作
                 return;
             } else if (nums1[index1]<=nums2[index2]){           //尽量先放nums2中的元素，所以用<=
                 nums1[indexmerge--]=nums2[index2--];
