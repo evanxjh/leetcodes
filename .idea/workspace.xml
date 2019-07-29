@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d99cdce-a879-4137-9614-43f496f8823b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/two_pointers/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/two_pointers/MergeSortedArray.java" afterDir="false" />
-    </list>
+    <list default="true" id="0d99cdce-a879-4137-9614-43f496f8823b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,14 +23,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/linked_list/RemoveDuplicates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+            <state relative-caret-position="225">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="31" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/linked_list/RemoveNthNodeFromEnd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -69,6 +75,7 @@
         <option value="$PROJECT_DIR$/src/two_pointers/MergeSortedArray.java" />
         <option value="$PROJECT_DIR$/src/linked_list/MergerTwoSortedLists.java" />
         <option value="$PROJECT_DIR$/src/linked_list/RemoveDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/linked_list/RemoveNthNodeFromEnd.java" />
       </list>
     </option>
   </component>
@@ -251,7 +258,7 @@
       <workItem from="1564290862150" duration="19000" />
       <workItem from="1564376869178" duration="352000" />
       <workItem from="1564377252199" duration="105000" />
-      <workItem from="1564377525315" duration="2140000" />
+      <workItem from="1564377525315" duration="2691000" />
     </task>
     <servers />
   </component>
@@ -270,13 +277,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39487000" />
+    <option name="totallyTimeSpent" value="40038000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1575067" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1575067" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -294,7 +301,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Style Checker" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.21954674" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.21954674" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -476,11 +483,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/linked_list/RemoveDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+        <state relative-caret-position="225">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="31" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linked_list/RemoveNthNodeFromEnd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
         </state>
       </provider>
     </entry>
