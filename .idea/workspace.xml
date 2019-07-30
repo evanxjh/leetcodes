@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d99cdce-a879-4137-9614-43f496f8823b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0d99cdce-a879-4137-9614-43f496f8823b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,47 +14,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linked_list/SplitLinkedListInParts.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="29" column="5" selection-start-line="22" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linked_list/OddEvenLinkedList.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Tree/InvertBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
-              <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/MaximumDepthOfBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="18" selection-start-line="18" selection-end-line="25" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/BalancedBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Tree/DiameterOfBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="34" selection-end-column="5" />
+              <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+              <folding>
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,6 +67,7 @@
         <option value="$PROJECT_DIR$/src/Tree/MaximumDepthOfBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/Tree/BalancedBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/Tree/DiameterOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/Tree/InvertBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -272,7 +239,7 @@
       <workItem from="1564376869178" duration="352000" />
       <workItem from="1564377252199" duration="105000" />
       <workItem from="1564377525315" duration="18039000" />
-      <workItem from="1564474470280" duration="3204000" />
+      <workItem from="1564474470280" duration="4477000" />
     </task>
     <servers />
   </component>
@@ -291,7 +258,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58590000" />
+    <option name="totallyTimeSpent" value="59863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -525,24 +492,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linked_list/SplitLinkedListInParts.java">
+    <entry file="file://$PROJECT_DIR$/src/Tree/DiameterOfBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="29" column="5" selection-start-line="22" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linked_list/OddEvenLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/MaximumDepthOfBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="18" selection-start-line="18" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="69">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -553,10 +506,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/DiameterOfBinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/src/Tree/MaximumDepthOfBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="156">
+          <caret line="18" selection-start-line="18" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linked_list/OddEvenLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linked_list/SplitLinkedListInParts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="29" column="5" selection-start-line="22" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/InvertBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding>
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
