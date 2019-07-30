@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d99cdce-a879-4137-9614-43f496f8823b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0d99cdce-a879-4137-9614-43f496f8823b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,21 +26,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/linked_list/OddEvenLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="828">
+            <state relative-caret-position="432">
               <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree/MaximumDepthOfBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="18" selection-start-line="18" selection-end-line="25" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Tree/BalancedBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="363">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-              <folding>
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#341#342#0" expanded="true" />
-              </folding>
+              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -85,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/linked_list/SplitLinkedListInParts.java" />
         <option value="$PROJECT_DIR$/src/linked_list/OddEvenLinkedList.java" />
         <option value="$PROJECT_DIR$/src/Tree/MaximumDepthOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/Tree/BalancedBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -256,7 +260,7 @@
       <workItem from="1564376869178" duration="352000" />
       <workItem from="1564377252199" duration="105000" />
       <workItem from="1564377525315" duration="18039000" />
-      <workItem from="1564474470280" duration="1889000" />
+      <workItem from="1564474470280" duration="2147000" />
     </task>
     <servers />
   </component>
@@ -275,7 +279,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57275000" />
+    <option name="totallyTimeSpent" value="57533000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -518,19 +522,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/linked_list/OddEvenLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
+        <state relative-caret-position="432">
           <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/MaximumDepthOfBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="18" selection-start-line="18" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/BalancedBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-          </folding>
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
         </state>
       </provider>
     </entry>
