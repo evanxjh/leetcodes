@@ -27,14 +27,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree/MergeTwoBinaryTrees.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="27" selection-start-line="27" selection-end-line="39" selection-end-column="18" />
+            <state relative-caret-position="202">
+              <caret line="18" selection-start-line="18" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="e#293#294#0" expanded="true" />
                 <element signature="e#322#323#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Tree/AverageOfLevelsInBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -82,6 +96,7 @@
         <option value="$PROJECT_DIR$/src/Tree/DiameterOfBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/Tree/InvertBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/Tree/MergeTwoBinaryTrees.java" />
+        <option value="$PROJECT_DIR$/src/Tree/AverageOfLevelsInBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -253,7 +268,7 @@
       <workItem from="1564376869178" duration="352000" />
       <workItem from="1564377252199" duration="105000" />
       <workItem from="1564377525315" duration="18039000" />
-      <workItem from="1564474470280" duration="5554000" />
+      <workItem from="1564474470280" duration="7383000" />
     </task>
     <servers />
   </component>
@@ -272,7 +287,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60940000" />
+    <option name="totallyTimeSpent" value="62769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -554,11 +569,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/MergeTwoBinaryTrees.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="27" selection-start-line="27" selection-end-line="39" selection-end-column="18" />
+        <state relative-caret-position="202">
+          <caret line="18" selection-start-line="18" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="e#293#294#0" expanded="true" />
             <element signature="e#322#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-998">
+          <caret line="137" column="17" selection-start-line="137" selection-start-column="17" selection-end-line="137" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/AverageOfLevelsInBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
           </folding>
         </state>
       </provider>
