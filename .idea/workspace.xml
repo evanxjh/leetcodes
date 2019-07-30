@@ -54,15 +54,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree/FindBottomLeftTreeValue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            <state relative-caret-position="294">
+              <caret line="28" column="24" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="28" selection-end-column="24" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#287#288#0" expanded="true" />
                 <element signature="e#316#317#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dynamic_programming/ClimbingStairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -111,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/Tree/MergeTwoBinaryTrees.java" />
         <option value="$PROJECT_DIR$/src/Tree/AverageOfLevelsInBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/Tree/FindBottomLeftTreeValue.java" />
+        <option value="$PROJECT_DIR$/src/dynamic_programming/ClimbingStairs.java" />
       </list>
     </option>
   </component>
@@ -145,7 +156,7 @@
               <item name="leetcodetrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcodetrain" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamic_programming" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcodetrain" type="b2602c69:ProjectViewProjectNode" />
@@ -282,7 +293,7 @@
       <workItem from="1564376869178" duration="352000" />
       <workItem from="1564377252199" duration="105000" />
       <workItem from="1564377525315" duration="18039000" />
-      <workItem from="1564474470280" duration="9040000" />
+      <workItem from="1564474470280" duration="9793000" />
     </task>
     <servers />
   </component>
@@ -301,13 +312,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64426000" />
+    <option name="totallyTimeSpent" value="65179000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15951742" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15951742" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -325,7 +336,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Style Checker" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.21954674" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.21954674" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -613,12 +624,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/FindBottomLeftTreeValue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        <state relative-caret-position="294">
+          <caret line="28" column="24" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="28" selection-end-column="24" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#287#288#0" expanded="true" />
             <element signature="e#316#317#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_programming/ClimbingStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
         </state>
       </provider>
     </entry>
