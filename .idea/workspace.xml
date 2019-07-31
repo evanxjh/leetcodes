@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d99cdce-a879-4137-9614-43f496f8823b" name="Default Changelist" comment="" />
+    <list default="true" id="0d99cdce-a879-4137-9614-43f496f8823b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,16 +94,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dynamic_programming/PerfectSquares.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="-80">
               <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1026#1027#0" expanded="true" />
                 <element signature="e#1063#1064#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dynamic_programming/DeleteOperationForTwoStrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="19" selection-start-line="19" selection-end-line="42" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -157,6 +168,7 @@
         <option value="$PROJECT_DIR$/src/dynamic_programming/UniquePaths.java" />
         <option value="$PROJECT_DIR$/src/dynamic_programming/IntegerBreak.java" />
         <option value="$PROJECT_DIR$/src/dynamic_programming/PerfectSquares.java" />
+        <option value="$PROJECT_DIR$/src/dynamic_programming/DeleteOperationForTwoStrings.java" />
       </list>
     </option>
   </component>
@@ -332,7 +344,7 @@
       <workItem from="1564377252199" duration="105000" />
       <workItem from="1564377525315" duration="18039000" />
       <workItem from="1564474470280" duration="11968000" />
-      <workItem from="1564542590213" duration="5580000" />
+      <workItem from="1564542590213" duration="8148000" />
     </task>
     <servers />
   </component>
@@ -355,9 +367,15 @@
     <history-entry file="PerfectSquares_sometest - 2019.07.31 at 13h 34m 58s.xml">
       <configuration name="PerfectSquares.sometest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PerfectSquares_sometest - 2019.07.31 at 13h 39m 40s.xml">
+      <configuration name="PerfectSquares.sometest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PerfectSquares_sometest - 2019.07.31 at 13h 39m 56s.xml">
+      <configuration name="PerfectSquares.sometest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72934000" />
+    <option name="totallyTimeSpent" value="75502000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -373,7 +391,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39943343" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -381,7 +399,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Style Checker" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.21954674" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.21954674" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -397,18 +415,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/dynamic_programming/PerfectSquares.java</url>
-          <line>44</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/String.java">
@@ -730,13 +736,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dynamic_programming/PerfectSquares.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="-80">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1026#1027#0" expanded="true" />
             <element signature="e#1063#1064#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_programming/DeleteOperationForTwoStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="19" selection-start-line="19" selection-end-line="42" selection-end-column="27" />
         </state>
       </provider>
     </entry>
