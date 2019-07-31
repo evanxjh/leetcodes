@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d99cdce-a879-4137-9614-43f496f8823b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0d99cdce-a879-4137-9614-43f496f8823b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,24 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/InvertBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="20" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/MergeTwoBinaryTrees.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" selection-start-line="18" selection-end-line="25" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree/AverageOfLevelsInBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,11 +83,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dynamic_programming/IntegerBreak.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="24" selection-end-column="21" />
+            <state relative-caret-position="294">
+              <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dynamic_programming/PerfectSquares.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1026#1027#0" expanded="true" />
+                <element signature="e#1063#1064#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -162,6 +156,7 @@
         <option value="$PROJECT_DIR$/src/dynamic_programming/MinimumPathSum.java" />
         <option value="$PROJECT_DIR$/src/dynamic_programming/UniquePaths.java" />
         <option value="$PROJECT_DIR$/src/dynamic_programming/IntegerBreak.java" />
+        <option value="$PROJECT_DIR$/src/dynamic_programming/PerfectSquares.java" />
       </list>
     </option>
   </component>
@@ -232,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReverseLinkedList.sometest">
+  <component name="RunManager" selected="JUnit.PerfectSquares.sometest">
     <configuration name="FourSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="two_pointers.FourSum" />
       <module name="leetcodetrain" />
@@ -272,15 +267,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.TwoSum" />
+    <configuration name="PerfectSquares.sometest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcodetrain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="dynamic_programming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="dynamic_programming" />
+      <option name="MAIN_CLASS_NAME" value="dynamic_programming.PerfectSquares" />
+      <option name="METHOD_NAME" value="sometest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -303,11 +301,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PerfectSquares.sometest" />
         <item itemvalue="JUnit.ReverseLinkedList.sometest" />
         <item itemvalue="Application.MergeSortedArray" />
         <item itemvalue="Application.ReverseVowels" />
         <item itemvalue="Application.FourSum" />
-        <item itemvalue="Application.TwoSum (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +332,7 @@
       <workItem from="1564377252199" duration="105000" />
       <workItem from="1564377525315" duration="18039000" />
       <workItem from="1564474470280" duration="11968000" />
-      <workItem from="1564542590213" duration="3917000" />
+      <workItem from="1564542590213" duration="5580000" />
     </task>
     <servers />
   </component>
@@ -351,9 +349,15 @@
     <history-entry file="ReverseLinkedList_sometest - 2019.07.28 at 01h 03m 55s.xml">
       <configuration name="ReverseLinkedList.sometest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ReverseLinkedList_sometest - 2019.07.31 at 13h 31m 40s.xml">
+      <configuration name="ReverseLinkedList.sometest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PerfectSquares_sometest - 2019.07.31 at 13h 34m 58s.xml">
+      <configuration name="PerfectSquares.sometest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71271000" />
+    <option name="totallyTimeSpent" value="72934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -369,7 +373,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -377,7 +381,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Style Checker" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.21954674" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.21954674" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -393,6 +397,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dynamic_programming/PerfectSquares.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/String.java">
@@ -700,8 +716,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dynamic_programming/IntegerBreak.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="24" selection-end-column="21" />
+        <state relative-caret-position="294">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_programming/PerfectSquares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1026#1027#0" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
