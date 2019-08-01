@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c4778b1-8c8b-476d-950c-e09d085c159f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6c4778b1-8c8b-476d-950c-e09d085c159f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,14 +28,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree/PathSumIII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+            <state relative-caret-position="125">
+              <caret line="31" selection-start-line="31" selection-end-line="38" selection-end-column="5" />
               <folding>
                 <element signature="e#823#824#0" expanded="true" />
                 <element signature="e#852#853#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Tree/SubTreeOfAnotherTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="41" column="86" selection-start-line="41" selection-start-column="86" selection-end-line="41" selection-end-column="86" />
+              <folding>
+                <element signature="e#496#497#0" expanded="true" />
+                <element signature="e#525#526#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,6 +80,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/Tree/PathSum.java" />
         <option value="$PROJECT_DIR$/src/Tree/PathSumIII.java" />
+        <option value="$PROJECT_DIR$/src/Tree/SubTreeOfAnotherTree.java" />
       </list>
     </option>
   </component>
@@ -142,12 +154,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564631186236</updated>
-      <workItem from="1564631188089" duration="3192000" />
+      <workItem from="1564631188089" duration="3874000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3192000" />
+    <option name="totallyTimeSpent" value="3874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -208,11 +220,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/PathSumIII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+        <state relative-caret-position="125">
+          <caret line="31" selection-start-line="31" selection-end-line="38" selection-end-column="5" />
           <folding>
             <element signature="e#823#824#0" expanded="true" />
             <element signature="e#852#853#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/SubTreeOfAnotherTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="41" column="86" selection-start-line="41" selection-start-column="86" selection-end-line="41" selection-end-column="86" />
+          <folding>
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
           </folding>
         </state>
       </provider>
