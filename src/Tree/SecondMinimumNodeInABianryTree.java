@@ -22,7 +22,7 @@ public class SecondMinimumNodeInABianryTree {
         if (leftval==root.val) leftval=findSecondMinimumValue(root.left);
         if (rightval==root.val) rightval=findSecondMinimumValue(root.right);
         if (leftval!=-1 && rightval!=-1) return Math.min(leftval,rightval);
-        if (leftval==-1) return leftval;
-        return rightval;
+        if (leftval ==-1) return rightval;
+        return leftval;
     }
 }
