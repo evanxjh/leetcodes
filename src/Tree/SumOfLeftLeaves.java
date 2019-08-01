@@ -13,7 +13,7 @@ package Tree;
 public class SumOfLeftLeaves {
     public int sumOfLeftLeaves(TreeNode root){
         if (root==null) return 0;
-        if (!isLeaf(root.left)) return root.left.val+sumOfLeftLeaves(root.right);
+        if (isLeaf(root.left)) return root.left.val+sumOfLeftLeaves(root.right);      //right为null就会返回0；
         return sumOfLeftLeaves(root.left)+sumOfLeftLeaves(root.right);
     }
     private boolean isLeaf(TreeNode node){
