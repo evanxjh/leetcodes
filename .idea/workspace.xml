@@ -102,11 +102,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StackAndQueue/MinStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="34" column="69" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+            <state relative-caret-position="241">
+              <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+              <folding>
+                <element signature="e#821#822#0" expanded="true" />
+                <element signature="e#863#864#0" expanded="true" />
+                <element signature="e#863#864#0" expanded="true" />
+                <element signature="e#889#890#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/StackAndQueue/ValidParentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="23" column="52" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="23" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -116,15 +131,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linked_list/IntersectionOfTwoLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -171,6 +177,7 @@
         <option value="$PROJECT_DIR$/src/StackAndQueue/MyQueue.java" />
         <option value="$PROJECT_DIR$/src/StackAndQueue/MyStack.java" />
         <option value="$PROJECT_DIR$/src/StackAndQueue/MinStack.java" />
+        <option value="$PROJECT_DIR$/src/StackAndQueue/ValidParentheses.java" />
       </list>
     </option>
   </component>
@@ -245,12 +252,12 @@
       <option name="presentableId" value="Default" />
       <updated>1564631186236</updated>
       <workItem from="1564631188089" duration="15637000" />
-      <workItem from="1564716352761" duration="23192000" />
+      <workItem from="1564716352761" duration="24081000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38829000" />
+    <option name="totallyTimeSpent" value="39718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -599,8 +606,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StackAndQueue/MinStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="34" column="69" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+        <state relative-caret-position="241">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="e#821#822#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StackAndQueue/ValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="23" column="52" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="23" selection-end-column="52" />
         </state>
       </provider>
     </entry>
