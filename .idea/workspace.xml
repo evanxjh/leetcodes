@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c4778b1-8c8b-476d-950c-e09d085c159f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6c4778b1-8c8b-476d-950c-e09d085c159f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,11 +117,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StackAndQueue/DailyTemperature.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-313">
-              <caret line="34" column="40" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="40" />
+            <state relative-caret-position="127">
+              <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/StackAndQueue/NextGreaterElementII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -175,6 +185,7 @@
         <option value="$PROJECT_DIR$/src/StackAndQueue/MinStack.java" />
         <option value="$PROJECT_DIR$/src/StackAndQueue/ValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/StackAndQueue/DailyTemperature.java" />
+        <option value="$PROJECT_DIR$/src/StackAndQueue/NextGreaterElementII.java" />
       </list>
     </option>
   </component>
@@ -288,14 +299,11 @@
       <option name="presentableId" value="Default" />
       <updated>1564631186236</updated>
       <workItem from="1564631188089" duration="15637000" />
-      <workItem from="1564716352761" duration="27408000" />
+      <workItem from="1564716352761" duration="28487000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DailyTemperature_sometest - 2019.08.02 at 23h 48m 41s.xml">
-      <configuration name="DailyTemperature.sometest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DailyTemperature_sometest - 2019.08.02 at 23h 48m 48s.xml">
       <configuration name="DailyTemperature.sometest" configurationId="JUnit" />
     </history-entry>
@@ -323,9 +331,12 @@
     <history-entry file="DailyTemperature_sometest - 2019.08.03 at 00h 18m 23s.xml">
       <configuration name="DailyTemperature.sometest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DailyTemperature_sometest - 2019.08.03 at 00h 18m 31s.xml">
+      <configuration name="DailyTemperature.sometest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43045000" />
+    <option name="totallyTimeSpent" value="44124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -342,7 +353,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39943343" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -350,7 +361,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Style Checker" order="10" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32719547" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32719547" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -716,8 +727,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StackAndQueue/DailyTemperature.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-313">
-          <caret line="34" column="40" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="40" />
+        <state relative-caret-position="127">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StackAndQueue/NextGreaterElementII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
