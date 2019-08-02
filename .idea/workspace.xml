@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c4778b1-8c8b-476d-950c-e09d085c159f" name="Default Changelist" comment="" />
+    <list default="true" id="6c4778b1-8c8b-476d-950c-e09d085c159f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/src/Tree/BSTConvertSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
                 <element signature="e#215#216#0" expanded="true" />
                 <element signature="e#240#241#0" expanded="true" />
@@ -28,19 +30,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/BSTTwoSumIV.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="73" column="5" lean-forward="true" selection-start-line="68" selection-start-column="4" selection-end-line="73" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree/BSTMinimumAbsoluteDiff.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="598">
-              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/src/Tree/BSTFindMode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="931">
-              <caret line="43" column="27" lean-forward="true" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+              <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/src/Tree/BSTConvertToGreater.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="287">
-              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -73,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/src/StackAndQueue/MyQueue.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="241">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <element signature="e#961#962#0" expanded="true" />
                 <element signature="e#996#997#0" expanded="true" />
@@ -106,7 +99,7 @@
         <entry file="file://$PROJECT_DIR$/src/StackAndQueue/MinStack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="241">
-              <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
               <folding>
                 <element signature="e#821#822#0" expanded="true" />
                 <element signature="e#863#864#0" expanded="true" />
@@ -117,20 +110,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StackAndQueue/ValidParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="23" column="52" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="23" selection-end-column="52" />
+              <caret line="23" column="52" selection-start-line="21" selection-start-column="16" selection-end-line="23" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/two_pointers/TwoSumII.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/StackAndQueue/DailyTemperature.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="-313">
+              <caret line="34" column="40" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -178,6 +174,7 @@
         <option value="$PROJECT_DIR$/src/StackAndQueue/MyStack.java" />
         <option value="$PROJECT_DIR$/src/StackAndQueue/MinStack.java" />
         <option value="$PROJECT_DIR$/src/StackAndQueue/ValidParentheses.java" />
+        <option value="$PROJECT_DIR$/src/StackAndQueue/DailyTemperature.java" />
       </list>
     </option>
   </component>
@@ -241,6 +238,45 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.DailyTemperature.sometest">
+    <configuration name="DailyTemperature" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcodetrain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StackAndQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StackAndQueue" />
+      <option name="MAIN_CLASS_NAME" value="StackAndQueue.DailyTemperature" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DailyTemperature.sometest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcodetrain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StackAndQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StackAndQueue" />
+      <option name="MAIN_CLASS_NAME" value="StackAndQueue.DailyTemperature" />
+      <option name="METHOD_NAME" value="sometest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DailyTemperature.sometest" />
+        <item itemvalue="JUnit.DailyTemperature" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -252,12 +288,44 @@
       <option name="presentableId" value="Default" />
       <updated>1564631186236</updated>
       <workItem from="1564631188089" duration="15637000" />
-      <workItem from="1564716352761" duration="24081000" />
+      <workItem from="1564716352761" duration="27408000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="DailyTemperature_sometest - 2019.08.02 at 23h 48m 41s.xml">
+      <configuration name="DailyTemperature.sometest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DailyTemperature_sometest - 2019.08.02 at 23h 48m 48s.xml">
+      <configuration name="DailyTemperature.sometest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DailyTemperature_sometest - 2019.08.02 at 23h 52m 03s.xml">
+      <configuration name="DailyTemperature.sometest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DailyTemperature - 2019.08.02 at 23h 52m 11s.xml">
+      <configuration name="DailyTemperature" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DailyTemperature_sometest - 2019.08.02 at 23h 52m 13s.xml">
+      <configuration name="DailyTemperature.sometest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DailyTemperature_sometest - 2019.08.02 at 23h 55m 38s.xml">
+      <configuration name="DailyTemperature.sometest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DailyTemperature_sometest - 2019.08.02 at 23h 55m 44s.xml">
+      <configuration name="DailyTemperature.sometest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DailyTemperature_sometest - 2019.08.03 at 00h 03m 02s.xml">
+      <configuration name="DailyTemperature.sometest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DailyTemperature_sometest - 2019.08.03 at 00h 04m 07s.xml">
+      <configuration name="DailyTemperature.sometest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DailyTemperature_sometest - 2019.08.03 at 00h 18m 23s.xml">
+      <configuration name="DailyTemperature.sometest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39718000" />
+    <option name="totallyTimeSpent" value="43045000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -270,10 +338,11 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -281,7 +350,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Style Checker" order="10" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32719547" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32719547" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -296,6 +365,20 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>i==5</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Tree/PathSumIII.java">
@@ -519,7 +602,7 @@
     <entry file="file://$PROJECT_DIR$/src/Tree/BSTTwoSumIV.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="73" column="5" lean-forward="true" selection-start-line="68" selection-start-column="4" selection-end-line="73" selection-end-column="5" />
+          <caret line="73" column="5" selection-start-line="68" selection-start-column="4" selection-end-line="73" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -533,7 +616,7 @@
     <entry file="file://$PROJECT_DIR$/src/Tree/BSTMinimumAbsoluteDiff.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -550,7 +633,7 @@
     <entry file="file://$PROJECT_DIR$/src/Tree/BSTConvertSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="e#215#216#0" expanded="true" />
             <element signature="e#240#241#0" expanded="true" />
@@ -561,7 +644,7 @@
     <entry file="file://$PROJECT_DIR$/src/Tree/BSTFindMode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="931">
-          <caret line="43" column="27" lean-forward="true" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -571,14 +654,14 @@
     <entry file="file://$PROJECT_DIR$/src/Tree/BSTConvertToGreater.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
-          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StackAndQueue/MyQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="e#961#962#0" expanded="true" />
             <element signature="e#996#997#0" expanded="true" />
@@ -607,7 +690,7 @@
     <entry file="file://$PROJECT_DIR$/src/StackAndQueue/MinStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
-          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
           <folding>
             <element signature="e#821#822#0" expanded="true" />
             <element signature="e#863#864#0" expanded="true" />
@@ -617,10 +700,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/../../cs61b/library-sp19/javalib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/StackAndQueue/ValidParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="23" column="52" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="23" selection-end-column="52" />
+          <caret line="23" column="52" selection-start-line="21" selection-start-column="16" selection-end-line="23" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StackAndQueue/DailyTemperature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-313">
+          <caret line="34" column="40" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
