@@ -29,7 +29,7 @@ public class PreorderTraversal {
         List<Integer> res=new ArrayList<>();
         if (root==null) return res;
         Stack<TreeNode> stack=new Stack<>();
-        stack.add(root);
+        stack.push(root);
         while (!stack.isEmpty()){
             TreeNode curr=stack.pop();
             res.add(curr.val);
@@ -45,7 +45,7 @@ public class PreorderTraversal {
         if (root==null) return res;
         Stack<TreeNode> stack=new Stack<>();
         TreeNode curr=root;
-        stack.add(curr);
+        stack.push(curr);
         while (!stack.isEmpty()){
             if (curr!=null){
                 res.add(curr.val);
