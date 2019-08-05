@@ -78,13 +78,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/strings/ValidAnagram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            <state relative-caret-position="484">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/strings/LongestPalindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="32" selection-end-column="32" />
               <folding>
-                <element signature="e#246#247#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/strings/stringcompute.java" />
         <option value="$PROJECT_DIR$/src/strings/ReverseWordsInAString.java" />
         <option value="$PROJECT_DIR$/src/strings/ValidAnagram.java" />
+        <option value="$PROJECT_DIR$/src/strings/LongestPalindrome.java" />
       </list>
     </option>
   </component>
@@ -224,7 +234,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564971460474</updated>
-      <workItem from="1564971468009" duration="8646000" />
+      <workItem from="1564971468009" duration="9362000" />
     </task>
     <servers />
   </component>
@@ -258,7 +268,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8646000" />
+    <option name="totallyTimeSpent" value="9362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -363,10 +373,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/strings/ValidAnagram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        <state relative-caret-position="484">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strings/LongestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="32" selection-end-column="32" />
           <folding>
-            <element signature="e#246#247#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
