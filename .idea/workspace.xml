@@ -69,11 +69,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/strings/ReverseWordsInAString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="25" selection-start-line="25" selection-end-line="34" selection-end-column="29" />
+            <state relative-caret-position="770">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/strings/ValidAnagram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+              <folding>
+                <element signature="e#246#247#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,6 +110,7 @@
         <option value="$PROJECT_DIR$/src/Hashing/LongestConsecutiveSequence.java" />
         <option value="$PROJECT_DIR$/src/strings/stringcompute.java" />
         <option value="$PROJECT_DIR$/src/strings/ReverseWordsInAString.java" />
+        <option value="$PROJECT_DIR$/src/strings/ValidAnagram.java" />
       </list>
     </option>
   </component>
@@ -211,7 +224,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564971460474</updated>
-      <workItem from="1564971468009" duration="8381000" />
+      <workItem from="1564971468009" duration="8646000" />
     </task>
     <servers />
   </component>
@@ -245,7 +258,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8381000" />
+    <option name="totallyTimeSpent" value="8646000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -343,8 +356,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/strings/ReverseWordsInAString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="25" selection-start-line="25" selection-end-line="34" selection-end-column="29" />
+        <state relative-caret-position="770">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strings/ValidAnagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding>
+            <element signature="e#246#247#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
