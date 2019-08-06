@@ -39,11 +39,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BitManipulation/BinaryNumberWithAlternatingBits.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="38" />
+              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BitManipulation/NumberComplement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <folding>
+                <element signature="e#450#451#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -103,6 +116,7 @@
         <option value="$PROJECT_DIR$/src/BitManipulation/PowerOfTwo.java" />
         <option value="$PROJECT_DIR$/src/BitManipulation/PowerOfFour.java" />
         <option value="$PROJECT_DIR$/src/BitManipulation/BinaryNumberWithAlternatingBits.java" />
+        <option value="$PROJECT_DIR$/src/BitManipulation/NumberComplement.java" />
       </list>
     </option>
   </component>
@@ -166,7 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SwapWithXOR.sometests">
+  <component name="RunManager" selected="JUnit.NumberComplement.sometest">
     <configuration name="DegreeOfAnArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcodetrain" />
       <extension name="coverage">
@@ -214,6 +228,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumberComplement.sometest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcodetrain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BitManipulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BitManipulation" />
+      <option name="MAIN_CLASS_NAME" value="BitManipulation.NumberComplement" />
+      <option name="METHOD_NAME" value="sometest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SwapWithXOR.sometests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcodetrain" />
       <extension name="coverage">
@@ -230,29 +260,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stringcompute.yiweitest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcodetrain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="strings" />
-      <option name="MAIN_CLASS_NAME" value="strings.stringcompute" />
-      <option name="METHOD_NAME" value="yiweitest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NumberComplement.sometest" />
         <item itemvalue="JUnit.SwapWithXOR.sometests" />
         <item itemvalue="JUnit.DegreeOfAnArray.sometest" />
         <item itemvalue="JUnit.DegreeOfAnArray" />
         <item itemvalue="JUnit.FindTheDuplicateNumber.sometest" />
-        <item itemvalue="JUnit.stringcompute.yiweitest" />
       </list>
     </recent_temporary>
   </component>
@@ -266,23 +280,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564971460474</updated>
-      <workItem from="1564971468009" duration="50304000" />
+      <workItem from="1564971468009" duration="51966000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DegreeOfAnArray_sometest - 2019.08.06 at 10h 00m 18s.xml">
-      <configuration name="DegreeOfAnArray.sometest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DegreeOfAnArray_sometest - 2019.08.06 at 10h 00m 40s.xml">
-      <configuration name="DegreeOfAnArray.sometest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DegreeOfAnArray - 2019.08.06 at 10h 03m 07s.xml">
-      <configuration name="DegreeOfAnArray" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DegreeOfAnArray_sometest - 2019.08.06 at 10h 05m 32s.xml">
-      <configuration name="DegreeOfAnArray.sometest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DegreeOfAnArray_sometest - 2019.08.06 at 10h 05m 50s.xml">
       <configuration name="DegreeOfAnArray.sometest" configurationId="JUnit" />
     </history-entry>
@@ -301,9 +303,21 @@
     <history-entry file="SwapWithXOR_sometests - 2019.08.06 at 14h 43m 01s.xml">
       <configuration name="SwapWithXOR.sometests" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="NumberComplement_sometest - 2019.08.06 at 16h 46m 27s.xml">
+      <configuration name="NumberComplement.sometest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberComplement_sometest - 2019.08.06 at 16h 46m 58s.xml">
+      <configuration name="NumberComplement.sometest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberComplement_sometest - 2019.08.06 at 16h 47m 53s.xml">
+      <configuration name="NumberComplement.sometest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberComplement_sometest - 2019.08.06 at 16h 47m 55s.xml">
+      <configuration name="NumberComplement.sometest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50304000" />
+    <option name="totallyTimeSpent" value="51966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -314,10 +328,10 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Style Checker" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" weight="0.329718" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -325,7 +339,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -666,7 +680,18 @@
     <entry file="file://$PROJECT_DIR$/src/BitManipulation/BinaryNumberWithAlternatingBits.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="38" />
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BitManipulation/NumberComplement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
