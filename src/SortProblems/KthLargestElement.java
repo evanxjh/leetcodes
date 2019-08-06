@@ -26,7 +26,8 @@ public class KthLargestElement {
         System.out.print(findKthLargest(nums,3));
     }
 
-    //最小的K个元素，大顶堆；最大的K个元素，小顶堆
+    //最小的K个元素，用大顶堆：则结果保留在队中，保证堆中元素个数为k；用小顶堆：则先全部加入，然后poll()k次
+    //最大的K个元素，与上面相反
     public int findKthLargest2(int[] nums,int k){
         PriorityQueue<Integer> pq=new PriorityQueue<>();   //小顶堆       大顶堆，可以修改comparator函数来实现
         for (int val:nums){

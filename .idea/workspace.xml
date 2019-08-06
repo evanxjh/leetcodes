@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d19df395-d4ae-476a-930c-b183779d3774" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodetrain/BitManipulation/NumberComplement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcodetrain/BitManipulation/NumberComplement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortProblems/KthLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortProblems/KthLargestElement.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +17,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SortProblems/KthLargestElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="42" column="87" selection-start-line="42" selection-start-column="87" selection-end-line="42" selection-end-column="87" />
+            <state relative-caret-position="216">
+              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SortProblems/TopKFrequentElements.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="524">
+              <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,6 +101,7 @@
         <option value="$PROJECT_DIR$/src/BitManipulation/MaximumProductOfWordLength.java" />
         <option value="$PROJECT_DIR$/src/BitManipulation/CountingBits.java" />
         <option value="$PROJECT_DIR$/src/SortProblems/KthLargestElement.java" />
+        <option value="$PROJECT_DIR$/src/SortProblems/TopKFrequentElements.java" />
       </list>
     </option>
   </component>
@@ -120,6 +132,12 @@
               <item name="leetcodetrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcodetrain" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodetrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodetrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SortProblems" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -247,7 +265,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564971460474</updated>
-      <workItem from="1564971468009" duration="63109000" />
+      <workItem from="1564971468009" duration="65924000" />
     </task>
     <servers />
   </component>
@@ -284,7 +302,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63109000" />
+    <option name="totallyTimeSpent" value="65924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -298,7 +316,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Style Checker" />
-      <window_info anchor="bottom" id="Terminal" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -306,7 +324,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -691,8 +709,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SortProblems/KthLargestElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="42" column="87" selection-start-line="42" selection-start-column="87" selection-end-line="42" selection-end-column="87" />
+        <state relative-caret-position="216">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortProblems/TopKFrequentElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
