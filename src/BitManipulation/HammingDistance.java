@@ -21,4 +21,15 @@ public class HammingDistance {
         }
         return cnt;
     }
+
+    //法2：用z&(z-1)去除表示最低的那一位
+    public int hammingDistance2(int x,int y){
+        int z=x^y;
+        int cnt=0;
+        while (z!=0){
+            z&=(z-1);
+            cnt++;
+        }
+        return cnt;
+    }
 }
