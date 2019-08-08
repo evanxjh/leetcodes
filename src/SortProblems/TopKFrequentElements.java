@@ -62,7 +62,7 @@ public class TopKFrequentElements {
         if (nums.length==0 ||nums==null) return null;
         List<Integer> topK=new ArrayList<>();                                  //store results
         Map<Integer,Integer> hm=new HashMap<>();
-        PriorityQueue<Integer> pq=new PriorityQueue<>((i,j)->hm.get(i)-hm.get(j));       //默认小顶堆
+        PriorityQueue<Integer> pq=new PriorityQueue<>(Comparator.comparingInt(i->hm.get(i)));       //默认小顶堆
         for (int num:nums){
             hm.put(num,hm.getOrDefault(num,0)+1);
         }
