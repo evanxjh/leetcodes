@@ -74,7 +74,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Greedy/QueueReconstructionByHeight.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="370">
@@ -82,6 +82,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Greedy/BestTimeToBuyAndSellStock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="24" column="22" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="24" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -167,6 +176,7 @@
         <option value="$PROJECT_DIR$/src/Greedy/NonOverlappingIntervals.java" />
         <option value="$PROJECT_DIR$/src/Greedy/MinimumNumberOfArrowsBalloons.java" />
         <option value="$PROJECT_DIR$/src/Greedy/QueueReconstructionByHeight.java" />
+        <option value="$PROJECT_DIR$/src/Greedy/BestTimeToBuyAndSellStock.java" />
       </list>
     </option>
   </component>
@@ -342,7 +352,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564971460474</updated>
-      <workItem from="1564971468009" duration="78179000" />
+      <workItem from="1564971468009" duration="78883000" />
     </task>
     <servers />
   </component>
@@ -379,7 +389,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78179000" />
+    <option name="totallyTimeSpent" value="78883000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -430,13 +440,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Hashing/ContainsDuplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Hashing/LongestHarmoniousSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -849,6 +852,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Greedy/BestTimeToBuyAndSellStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="24" selection-end-column="22" />
         </state>
       </provider>
     </entry>
