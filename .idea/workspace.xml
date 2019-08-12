@@ -15,18 +15,6 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Greedy/QueueReconstructionByHeight.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="38" column="81" selection-start-line="21" selection-start-column="8" selection-end-line="38" selection-end-column="81" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Greedy/BestTimeToBuyAndSellStock.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="414">
@@ -107,11 +95,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Search/MaxAreaOfIsland.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
               <caret line="36" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Search/FriendCircles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -136,7 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/strings/PalindromicSubstrings.java" />
         <option value="$PROJECT_DIR$/src/strings/PalindromeNumber.java" />
         <option value="$PROJECT_DIR$/src/strings/CountBinarySubstrings.java" />
         <option value="$PROJECT_DIR$/src/ArrayAndMatrix.java" />
@@ -187,6 +183,7 @@
         <option value="$PROJECT_DIR$/src/Search/PerfectSquares.java" />
         <option value="$PROJECT_DIR$/src/Search/WordLadder.java" />
         <option value="$PROJECT_DIR$/src/Search/MaxAreaOfIsland.java" />
+        <option value="$PROJECT_DIR$/src/Search/FriendCircles.java" />
       </list>
     </option>
   </component>
@@ -250,17 +247,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ShortestPath.sometest">
-    <configuration name="DegreeOfAnArray.sometest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FriendCircles.sometest">
+    <configuration name="FriendCircles.sometest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcodetrain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="Search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="array" />
-      <option name="MAIN_CLASS_NAME" value="array.DegreeOfAnArray" />
+      <option name="PACKAGE_NAME" value="Search" />
+      <option name="MAIN_CLASS_NAME" value="Search.FriendCircles" />
       <option name="METHOD_NAME" value="sometest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -333,11 +330,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FriendCircles.sometest" />
         <item itemvalue="JUnit.ShortestPath.sometest" />
         <item itemvalue="JUnit.KthLargestElement.method1" />
         <item itemvalue="JUnit.NumberComplement.sometest" />
         <item itemvalue="JUnit.SwapWithXOR.sometests" />
-        <item itemvalue="JUnit.DegreeOfAnArray.sometest" />
       </list>
     </recent_temporary>
   </component>
@@ -356,15 +353,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SwapWithXOR_sometests - 2019.08.06 at 14h 43m 01s.xml">
-      <configuration name="SwapWithXOR.sometests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberComplement_sometest - 2019.08.06 at 16h 46m 27s.xml">
-      <configuration name="NumberComplement.sometest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberComplement_sometest - 2019.08.06 at 16h 46m 58s.xml">
-      <configuration name="NumberComplement.sometest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="NumberComplement_sometest - 2019.08.06 at 16h 47m 53s.xml">
       <configuration name="NumberComplement.sometest" configurationId="JUnit" />
     </history-entry>
@@ -386,9 +374,18 @@
     <history-entry file="ShortestPath_sometest - 2019.08.12 at 19h 20m 41s.xml">
       <configuration name="ShortestPath.sometest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FriendCircles_sometest - 2019.08.12 at 20h 52m 06s.xml">
+      <configuration name="FriendCircles.sometest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FriendCircles_sometest - 2019.08.12 at 20h 52m 30s.xml">
+      <configuration name="FriendCircles.sometest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FriendCircles_sometest - 2019.08.12 at 20h 55m 53s.xml">
+      <configuration name="FriendCircles.sometest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97857000" />
+    <option name="totallyTimeSpent" value="99545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -404,16 +401,16 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.329718" />
       <window_info anchor="bottom" id="Style Checker" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -439,19 +436,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BitManipulation/PowerOfTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-          <folding>
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/BSTKthSmallest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -862,6 +846,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="36" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search/FriendCircles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
