@@ -192,7 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.UniqueBSTII.sometest">
+  <component name="RunManager" selected="JUnit.gcd.sometest">
     <configuration name="DiffWaysToAddParentheses.sometest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcodetrain" />
       <extension name="coverage">
@@ -241,22 +241,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShortestPath.sometest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcodetrain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Search.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Search" />
-      <option name="MAIN_CLASS_NAME" value="Search.ShortestPath" />
-      <option name="METHOD_NAME" value="sometest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UniqueBSTII.sometest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcodetrain" />
       <extension name="coverage">
@@ -273,13 +257,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="gcd.sometest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcodetrain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mathematics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Mathematics" />
+      <option name="MAIN_CLASS_NAME" value="Mathematics.gcd" />
+      <option name="METHOD_NAME" value="sometest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.gcd.sometest" />
         <item itemvalue="JUnit.UniqueBSTII.sometest" />
         <item itemvalue="JUnit.DiffWaysToAddParentheses.sometest" />
         <item itemvalue="JUnit.FindFirstAndLastInSorted.sometest" />
         <item itemvalue="JUnit.FriendCircles.sometest" />
-        <item itemvalue="JUnit.ShortestPath.sometest" />
       </list>
     </recent_temporary>
   </component>
