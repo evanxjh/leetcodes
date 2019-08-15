@@ -16,14 +16,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DivideAndConquer/DiffWaysToAddParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="50" column="60" selection-start-line="50" selection-start-column="60" selection-end-line="50" selection-end-column="60" />
+            <state relative-caret-position="370">
+              <caret line="59" column="47" lean-forward="true" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DivideAndConquer/UniqueBSTII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1331#1332#0" expanded="true" />
+                <element signature="e#1381#1382#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tree/AverageOfLevelsInBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -48,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/array/SetMismatch.java" />
         <option value="$PROJECT_DIR$/src/array/FindAllDuplicates.java" />
         <option value="$PROJECT_DIR$/src/array/FindAllNumbersDisappeared.java" />
         <option value="$PROJECT_DIR$/src/array/FindTheDuplicateNumber.java" />
@@ -99,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/BinarySearch/FindMinRotatedSortedArray.java" />
         <option value="$PROJECT_DIR$/src/BinarySearch/FindFirstAndLastInSorted.java" />
         <option value="$PROJECT_DIR$/src/DivideAndConquer/DiffWaysToAddParentheses.java" />
+        <option value="$PROJECT_DIR$/src/DivideAndConquer/UniqueBSTII.java" />
       </list>
     </option>
   </component>
@@ -141,6 +164,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dynamic_programming" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcodetrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodetrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -168,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DiffWaysToAddParentheses.sometest">
+  <component name="RunManager" selected="JUnit.UniqueBSTII.sometest">
     <configuration name="DiffWaysToAddParentheses.sometest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcodetrain" />
       <extension name="coverage">
@@ -217,22 +246,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KthLargestElement.method1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcodetrain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SortProblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SortProblems" />
-      <option name="MAIN_CLASS_NAME" value="SortProblems.KthLargestElement" />
-      <option name="METHOD_NAME" value="method1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ShortestPath.sometest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcodetrain" />
       <extension name="coverage">
@@ -249,13 +262,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UniqueBSTII.sometest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcodetrain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DivideAndConquer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DivideAndConquer" />
+      <option name="MAIN_CLASS_NAME" value="DivideAndConquer.UniqueBSTII" />
+      <option name="METHOD_NAME" value="sometest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UniqueBSTII.sometest" />
         <item itemvalue="JUnit.DiffWaysToAddParentheses.sometest" />
         <item itemvalue="JUnit.FindFirstAndLastInSorted.sometest" />
         <item itemvalue="JUnit.FriendCircles.sometest" />
         <item itemvalue="JUnit.ShortestPath.sometest" />
-        <item itemvalue="JUnit.KthLargestElement.method1" />
       </list>
     </recent_temporary>
   </component>
@@ -270,23 +299,11 @@
       <option name="presentableId" value="Default" />
       <updated>1564971460474</updated>
       <workItem from="1564971468009" duration="85114000" />
-      <workItem from="1565835305752" duration="3350000" />
+      <workItem from="1565835305752" duration="5647000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FriendCircles_sometest - 2019.08.12 at 20h 56m 46s.xml">
-      <configuration name="FriendCircles.sometest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FriendCircles_sometest - 2019.08.14 at 15h 53m 11s.xml">
-      <configuration name="FriendCircles.sometest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FindFirstAndLastInSorted_sometest - 2019.08.14 at 17h 28m 34s.xml">
-      <configuration name="FindFirstAndLastInSorted.sometest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FindFirstAndLastInSorted_sometest - 2019.08.14 at 17h 28m 59s.xml">
-      <configuration name="FindFirstAndLastInSorted.sometest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FindFirstAndLastInSorted_sometest - 2019.08.14 at 17h 31m 28s.xml">
       <configuration name="FindFirstAndLastInSorted.sometest" configurationId="JUnit" />
     </history-entry>
@@ -305,9 +322,21 @@
     <history-entry file="FindFirstAndLastInSorted_sometest - 2019.08.14 at 17h 35m 52s.xml">
       <configuration name="FindFirstAndLastInSorted.sometest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DiffWaysToAddParentheses_sometest - 2019.08.15 at 15h 25m 14s.xml">
+      <configuration name="DiffWaysToAddParentheses.sometest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UniqueBSTII_sometest - 2019.08.15 at 15h 54m 19s.xml">
+      <configuration name="UniqueBSTII.sometest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UniqueBSTII_sometest - 2019.08.15 at 15h 55m 34s.xml">
+      <configuration name="UniqueBSTII.sometest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UniqueBSTII_sometest - 2019.08.15 at 15h 57m 13s.xml">
+      <configuration name="UniqueBSTII.sometest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120335000" />
+    <option name="totallyTimeSpent" value="122632000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -358,20 +387,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/array/SetMismatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/ReshapeMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/array/MoveZeros.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -774,10 +789,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DivideAndConquer/DiffWaysToAddParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="50" column="60" selection-start-line="50" selection-start-column="60" selection-end-line="50" selection-end-column="60" />
+        <state relative-caret-position="370">
+          <caret line="59" column="47" lean-forward="true" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/AverageOfLevelsInBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DivideAndConquer/UniqueBSTII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1331#1332#0" expanded="true" />
+            <element signature="e#1381#1382#0" expanded="true" />
           </folding>
         </state>
       </provider>
