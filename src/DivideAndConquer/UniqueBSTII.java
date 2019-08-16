@@ -61,7 +61,7 @@ public class UniqueBSTII {
         List<TreeNode> [][] dp=new List[n+1][n+1];         //i行j列存储i到j的TreeNode链表
         dp[0][0]=Collections.singletonList(null);          //记录null
         for (int i=1;i<=n;i++){
-            dp[i][i]=Collections.singletonList(new TreeNode(i));
+            dp[i][i]=Collections.singletonList(new TreeNode(i));               //用于返回一个只包含特定对象的不可变列表
         }
         return helper(1,n,dp);
     }
