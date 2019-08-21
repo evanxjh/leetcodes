@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d19df395-d4ae-476a-930c-b183779d3774" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d19df395-d4ae-476a-930c-b183779d3774" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,15 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Mathematics/AddBinary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Mathematics/AddStrings.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,11 +63,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Mathematics/ProductOfArrayExceptSelf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="22" selection-start-line="22" selection-end-line="35" selection-end-column="24" />
+            <state relative-caret-position="326">
+              <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Mathematics/MaxProductOfThreeNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="14" selection-start-line="14" selection-end-line="35" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -130,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BitManipulation/SwapWithXOR.java" />
         <option value="$PROJECT_DIR$/src/BitManipulation/PowerOfTwo.java" />
         <option value="$PROJECT_DIR$/src/BitManipulation/PowerOfFour.java" />
         <option value="$PROJECT_DIR$/src/BitManipulation/BinaryNumberWithAlternatingBits.java" />
@@ -181,6 +178,7 @@
         <option value="$PROJECT_DIR$/src/Mathematics/ValidPerfectSquare.java" />
         <option value="$PROJECT_DIR$/src/Mathematics/PowerOfThree.java" />
         <option value="$PROJECT_DIR$/src/Mathematics/ProductOfArrayExceptSelf.java" />
+        <option value="$PROJECT_DIR$/src/Mathematics/MaxProductOfThreeNumbers.java" />
       </list>
     </option>
   </component>
@@ -390,7 +388,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138698000" />
+    <option name="totallyTimeSpent" value="139319000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -441,13 +439,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Greedy/CanPlaceFlowers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/BSTConvertSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -833,8 +824,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Mathematics/ProductOfArrayExceptSelf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="22" selection-start-line="22" selection-end-line="35" selection-end-column="24" />
+        <state relative-caret-position="326">
+          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mathematics/MaxProductOfThreeNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="14" selection-start-line="14" selection-end-line="35" selection-end-column="55" />
         </state>
       </provider>
     </entry>
