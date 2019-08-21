@@ -15,18 +15,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DivideAndConquer/UniqueBSTII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1254">
-              <caret line="63" column="78" selection-start-line="63" selection-start-column="78" selection-end-line="63" selection-end-column="78" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Mathematics/Base16.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
@@ -71,11 +59,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Mathematics/minMovesToEqual.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+            <state relative-caret-position="968">
+              <caret line="62" column="26" lean-forward="true" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Mathematics/MajorityElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="35" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="14" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -127,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BitManipulation/SingleNumber.java" />
         <option value="$PROJECT_DIR$/src/BitManipulation/MissingNumber.java" />
         <option value="$PROJECT_DIR$/src/BitManipulation/SingleNumberIII.java" />
         <option value="$PROJECT_DIR$/src/BitManipulation/ReverseBits.java" />
@@ -178,6 +174,7 @@
         <option value="$PROJECT_DIR$/src/Mathematics/AddBinary.java" />
         <option value="$PROJECT_DIR$/src/Mathematics/AddStrings.java" />
         <option value="$PROJECT_DIR$/src/Mathematics/minMovesToEqual.java" />
+        <option value="$PROJECT_DIR$/src/Mathematics/MajorityElement.java" />
       </list>
     </option>
   </component>
@@ -208,6 +205,12 @@
               <item name="leetcodetrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcodetrain" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodetrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodetrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Mathematics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcodetrain" type="b2602c69:ProjectViewProjectNode" />
@@ -381,7 +384,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133429000" />
+    <option name="totallyTimeSpent" value="134369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -432,16 +435,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Greedy/QueueReconstructionByHeight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="38" column="81" selection-start-line="21" selection-start-column="8" selection-end-line="38" selection-end-column="81" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Greedy/BestTimeToBuyAndSellStock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -823,8 +816,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Mathematics/minMovesToEqual.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+        <state relative-caret-position="968">
+          <caret line="62" column="26" lean-forward="true" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mathematics/MajorityElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="14" selection-end-column="35" />
         </state>
       </provider>
     </entry>
