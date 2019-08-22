@@ -14,14 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dynamic_programming/MaximumLengthOfPairChain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="40" selection-start-line="40" selection-end-line="48" selection-end-column="19" />
+            <state relative-caret-position="304">
+              <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dynamic_programming/WiggleSubsequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -55,7 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BitManipulation/NumberComplement.java" />
         <option value="$PROJECT_DIR$/src/BitManipulation/SumOfTwoIntegers.java" />
         <option value="$PROJECT_DIR$/src/BitManipulation/MaximumProductOfWordLength.java" />
         <option value="$PROJECT_DIR$/src/BitManipulation/CountingBits.java" />
@@ -106,6 +114,7 @@
         <option value="$PROJECT_DIR$/src/dynamic_programming/DecodeWays.java" />
         <option value="$PROJECT_DIR$/src/dynamic_programming/LongestIncreasingSubsequence.java" />
         <option value="$PROJECT_DIR$/src/dynamic_programming/MaximumLengthOfPairChain.java" />
+        <option value="$PROJECT_DIR$/src/dynamic_programming/WiggleSubsequence.java" />
       </list>
     </option>
   </component>
@@ -320,7 +329,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148055000" />
+    <option name="totallyTimeSpent" value="149071000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -371,13 +380,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Tree/BSTConvertToGreater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Greedy/PartitionLabels.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -753,11 +755,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dynamic_programming/MaximumLengthOfPairChain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="40" selection-start-line="40" selection-end-line="48" selection-end-column="19" />
+        <state relative-caret-position="304">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_programming/WiggleSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="51" />
         </state>
       </provider>
     </entry>
