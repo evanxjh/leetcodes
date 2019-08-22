@@ -29,4 +29,34 @@ public class LongestIncreasingSubsequence {
         }
         return ret;
     }
+
+    //解法2时间复杂度O(nlog(n))，用一个tail数组，tail[i]存储i+1长度递增子序列的最后一个元素，tail数组有序
+    //因此可以用二分查找
+    public int lengthOfLIS2(int[] nums){
+        int n=nums.length;
+        int[] tails=new int[n];
+        int len=0;
+        for (int num:nums){
+            int index=binarysearch(tails,len,num);
+            tails[index]=num;
+            if (index==len){     //大于所有值，加到最后面，tails长度+1
+                len++;
+            }
+        }
+        return len;
+    }
+    private int binarysearch(int[] tails,int len,int key){
+        int l=0,h=len-1;
+        while (l<=h){
+            int mid=l+(h-l)/2;
+            if (key<tails[mid]){
+                h=mid-1;
+            } else if (key>tails[mid]){
+                l=mid+1;
+            } else {
+                return mid;
+            }
+        }
+        return l;
+    }
 }
