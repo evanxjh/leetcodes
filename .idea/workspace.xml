@@ -23,11 +23,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dynamic_programming/WordBreak.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="34" selection-start-line="34" selection-end-line="45" selection-end-column="21" />
+            <state relative-caret-position="392">
+              <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dynamic_programming/CombinationSumIV.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="18" selection-start-line="18" selection-end-line="28" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -52,7 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Greedy/MinimumNumberOfArrowsBalloons.java" />
         <option value="$PROJECT_DIR$/src/Greedy/QueueReconstructionByHeight.java" />
         <option value="$PROJECT_DIR$/src/Greedy/BestTimeToBuyAndSellStock.java" />
         <option value="$PROJECT_DIR$/src/Greedy/BestTimeToBuyAndSellStockIII.java" />
@@ -103,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/dynamic_programming/CoinChange.java" />
         <option value="$PROJECT_DIR$/src/dynamic_programming/CoinChange2.java" />
         <option value="$PROJECT_DIR$/src/dynamic_programming/WordBreak.java" />
+        <option value="$PROJECT_DIR$/src/dynamic_programming/CombinationSumIV.java" />
       </list>
     </option>
   </component>
@@ -317,13 +326,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="159186000" />
+    <option name="totallyTimeSpent" value="160130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -337,7 +346,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" visible="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.329718" />
@@ -368,16 +377,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Search/PerfectSquares.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BinarySearch/SqrtX.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -743,8 +742,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dynamic_programming/WordBreak.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="34" selection-start-line="34" selection-end-line="45" selection-end-column="21" />
+        <state relative-caret-position="392">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_programming/CombinationSumIV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="18" selection-start-line="18" selection-end-line="28" selection-end-column="26" />
         </state>
       </provider>
     </entry>
