@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d19df395-d4ae-476a-930c-b183779d3774" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/dynamic_programming/StockKTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamic_programming/StockKTimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dynamic_programming/DeleteOperationForTwoStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamic_programming/DeleteOperationForTwoStrings.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,11 +61,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dynamic_programming/StockKTimes.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="194">
               <caret line="30" column="133" selection-start-line="30" selection-start-column="133" selection-end-line="30" selection-end-column="133" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dynamic_programming/LongestCommonSubsequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dynamic_programming/DeleteOperationForTwoStrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="38" column="99" selection-start-line="38" selection-start-column="99" selection-end-line="38" selection-end-column="99" />
             </state>
           </provider>
         </entry>
@@ -90,7 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Greedy/BestTimeToBuyAndSellStockII.java" />
         <option value="$PROJECT_DIR$/src/Greedy/CanPlaceFlowers.java" />
         <option value="$PROJECT_DIR$/src/Greedy/IsSubsequence.java" />
         <option value="$PROJECT_DIR$/src/Greedy/NonDecreasingArray.java" />
@@ -141,6 +158,7 @@
         <option value="$PROJECT_DIR$/src/dynamic_programming/StockWithCooldown.java" />
         <option value="$PROJECT_DIR$/src/dynamic_programming/StockWithTransactionFee.java" />
         <option value="$PROJECT_DIR$/src/dynamic_programming/StockKTimes.java" />
+        <option value="$PROJECT_DIR$/src/dynamic_programming/DeleteOperationForTwoStrings.java" />
       </list>
     </option>
   </component>
@@ -355,13 +373,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170957000" />
+    <option name="totallyTimeSpent" value="172033000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -375,7 +393,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.329718" />
@@ -406,13 +424,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/dynamic_programming/ClimbingStairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dynamic_programming/HouseRobber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -717,13 +728,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamic_programming/LongestCommonSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dynamic_programming/WiggleSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
@@ -780,6 +784,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="30" column="133" selection-start-line="30" selection-start-column="133" selection-end-line="30" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_programming/LongestCommonSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_programming/DeleteOperationForTwoStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="38" column="99" selection-start-line="38" selection-start-column="99" selection-end-line="38" selection-end-column="99" />
         </state>
       </provider>
     </entry>
