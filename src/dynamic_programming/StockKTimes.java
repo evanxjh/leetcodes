@@ -28,7 +28,7 @@ public class StockKTimes {
             int localMax=maxProfit[i-1][0]-prices[0];
             for (int j=1;j<n;j++){
                 maxProfit[i][j]=Math.max(maxProfit[i][j-1],prices[j]+localMax);     //第j天不交易，还是交易，两种情况
-                localMax=Math.max(localMax,maxProfit[i-1][j]-prices[j]);            //保证交易i-1次时，当前的买入价格是最低的
+                localMax=Math.max(localMax,maxProfit[i-1][j]-prices[j]);            //保证交易i-1次，且在第1至j-1天中买入股票后，拥有的钱是最多的，这样在第j天卖出赚的最多。
             }
         }
         return maxProfit[k][n-1];*/

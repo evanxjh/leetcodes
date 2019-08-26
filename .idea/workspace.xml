@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d19df395-d4ae-476a-930c-b183779d3774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/StockKTimes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dynamic_programming/StockKTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamic_programming/StockKTimes.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/dynamic_programming/StockKTimes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="45" selection-end-column="23" />
+            <state relative-caret-position="194">
+              <caret line="30" column="133" selection-start-line="30" selection-start-column="133" selection-end-line="30" selection-end-column="133" />
             </state>
           </provider>
         </entry>
@@ -356,7 +355,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170245000" />
+    <option name="totallyTimeSpent" value="170957000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -779,8 +778,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dynamic_programming/StockKTimes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="45" selection-end-column="23" />
+        <state relative-caret-position="194">
+          <caret line="30" column="133" selection-start-line="30" selection-start-column="133" selection-end-line="30" selection-end-column="133" />
         </state>
       </provider>
     </entry>
