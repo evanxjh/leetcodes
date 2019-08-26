@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d19df395-d4ae-476a-930c-b183779d3774" name="Default Changelist" comment="" />
+    <list default="true" id="d19df395-d4ae-476a-930c-b183779d3774" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/StockKTimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,11 +53,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dynamic_programming/StockWithTransactionFee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="282">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dynamic_programming/StockKTimes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="45" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -79,7 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Greedy/BestTimeToBuyAndSellStockIII.java" />
         <option value="$PROJECT_DIR$/src/Greedy/BestTimeToBuyAndSellStockII.java" />
         <option value="$PROJECT_DIR$/src/Greedy/CanPlaceFlowers.java" />
         <option value="$PROJECT_DIR$/src/Greedy/IsSubsequence.java" />
@@ -130,6 +141,7 @@
         <option value="$PROJECT_DIR$/src/dynamic_programming/CombinationSumIV.java" />
         <option value="$PROJECT_DIR$/src/dynamic_programming/StockWithCooldown.java" />
         <option value="$PROJECT_DIR$/src/dynamic_programming/StockWithTransactionFee.java" />
+        <option value="$PROJECT_DIR$/src/dynamic_programming/StockKTimes.java" />
       </list>
     </option>
   </component>
@@ -344,7 +356,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167250000" />
+    <option name="totallyTimeSpent" value="170245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -395,13 +407,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/FirstBadVersion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dynamic_programming/ClimbingStairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -768,7 +773,14 @@
     <entry file="file://$PROJECT_DIR$/src/dynamic_programming/StockWithTransactionFee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_programming/StockKTimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="45" selection-end-column="23" />
         </state>
       </provider>
     </entry>
