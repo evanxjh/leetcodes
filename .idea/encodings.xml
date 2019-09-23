@@ -3,5 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/../cs61b/lab11/MergeSort.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/../cs61b/lab9/MyTrieSet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/linked_list/ReverseLinkedList.java" charset="GBK" />
   </component>
 </project>

@@ -47,6 +47,27 @@ public class ReverseLinkedList {
         }
         return sentinal.next;
     }
+
+    //方法三定义pre cur next
+    public ListNode reverseList2(ListNode head) {
+        if(head==null){
+            return null;
+        }
+
+        ListNode pre = null;
+        ListNode cur = head;
+
+        while(cur!=null){
+            ListNode next = cur.next;
+            // next指针指向的元素实际上就是 cur指针的指向的下一个元素
+
+            //反转链表
+            cur.next = pre;
+            pre = cur;
+            cur = next;
+        }
+        return pre;
+    }
     @Test
     public void sometest(){
         ListNode l1=new ListNode(1);
