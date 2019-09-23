@@ -12,9 +12,9 @@ public class FindMinRotatedSortedArray {
         while (l<h) {
             int m = l + (h - l) / 2;
             if (nums[m]<nums[h]){
-                h=m;
+                h=m;                     //m处可能为最小值
             } else {
-                l=m+1;
+                l=m+1;                   //m处不可能为最小值
             }
         }
         return nums[h];                  //返回h和l都可以
