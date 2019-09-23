@@ -33,7 +33,7 @@ public class DegreeOfAnArray {
         return shortest;
     }
     private class node{
-        int index;
+        int index;              //最早出现的index
         int counts;
         public node(int i,int c){
             index=i;

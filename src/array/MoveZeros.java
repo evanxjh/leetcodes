@@ -11,7 +11,7 @@ package array;
  * Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
  */
 public class MoveZeros {
-    public void moveZeros(int[] nums){
+    public void moveZeroes(int[] nums){
         int i=0,j=1;
         while(i<nums.length && j<nums.length){
             if (nums[i]==0){
@@ -26,5 +26,23 @@ public class MoveZeros {
                 j++;
             }
         }
+    }
+
+    public void solution(int[] nums){
+        int k=0;
+        for (int i=0;i<nums.length;i++){
+            if (nums[i]!=0){
+                if (i!=k){
+                    swap(nums,k++,i);
+                }else{
+                    k++;
+                }
+            }
+        }
+    }
+    private void swap(int[] nums,int i,int j){
+        int tmp = nums[i];
+        nums[i] = nums [j];
+        nums[j] = tmp;
     }
 }
