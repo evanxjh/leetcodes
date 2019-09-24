@@ -24,15 +24,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BinarySearch/FindMinRotatedSortedArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BinarySearch/SearchInRotatedSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
@@ -101,11 +92,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/array/movingwindow/SubarrayProductLessThanK.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="36" />
+            <state relative-caret-position="396">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/two_pointers/TrappingRainWater.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -130,7 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Mathematics/Base7.java" />
         <option value="$PROJECT_DIR$/src/DivideAndConquer/UniqueBSTII.java" />
         <option value="$PROJECT_DIR$/src/Mathematics/Base16.java" />
         <option value="$PROJECT_DIR$/src/Mathematics/ExcelSheetColumn.java" />
@@ -181,6 +180,7 @@
         <option value="$PROJECT_DIR$/src/array/movingwindow/LengthOfLongestSubstring.java" />
         <option value="$PROJECT_DIR$/src/array/movingwindow/MinimumWindowSubstring.java" />
         <option value="$PROJECT_DIR$/src/array/movingwindow/SubarrayProductLessThanK.java" />
+        <option value="$PROJECT_DIR$/src/two_pointers/TrappingRainWater.java" />
       </list>
     </option>
   </component>
@@ -215,14 +215,7 @@
               <item name="leetcodetrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcodetrain" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcodetrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcodetrain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-              <item name="movingwindow" type="462c0819:PsiDirectoryNode" />
+              <item name="two_pointers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -357,14 +350,11 @@
       <workItem from="1564971468009" duration="85114000" />
       <workItem from="1565835305752" duration="9425000" />
       <workItem from="1565936198200" duration="2737000" />
-      <workItem from="1568950818725" duration="24914000" />
+      <workItem from="1568950818725" duration="27888000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DecodeWays - 2019.08.22 at 11h 09m 14s.xml">
-      <configuration name="DecodeWays" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DecodeWays_test - 2019.08.26 at 20h 36m 39s.xml">
       <configuration name="DecodeWays.test" configurationId="JUnit" />
     </history-entry>
@@ -392,9 +382,12 @@
     <history-entry file="LengthOfLongestSubstring_test - 2019.09.24 at 13h 58m 29s.xml">
       <configuration name="LengthOfLongestSubstring.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SubarrayProductLessThanK_sometest - 2019.09.24 at 14h 37m 36s.xml">
+      <configuration name="SubarrayProductLessThanK.sometest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199529000" />
+    <option name="totallyTimeSpent" value="202503000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -409,7 +402,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -420,11 +413,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3991323" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.329718" />
@@ -467,13 +460,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/dynamic_programming/PartitionEqualSubsetSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dynamic_programming/WiggleSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
@@ -845,8 +831,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/array/movingwindow/SubarrayProductLessThanK.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="36" />
+        <state relative-caret-position="396">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/two_pointers/TrappingRainWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
