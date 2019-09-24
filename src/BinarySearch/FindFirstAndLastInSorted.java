@@ -51,6 +51,23 @@ public class FindFirstAndLastInSorted {
         return l;
     }
 
+    //查找第一个元素
+    private int binarySearchFirstTarget(int[] nums,int target){
+        int l=0,h=nums.length-1,res=-1;
+        while (l<=h){
+            int mid=l+(h-l)/2;
+            if (target<=nums[mid]){
+                h=mid-1;
+            } else{
+                l=mid+1;
+            }
+            if (target==nums[mid]){
+                res=mid;
+            }
+        }
+        return res;
+    }
+
     @Test
     public void sometest(){
         int[] t=new int[]{5,7,7,8,8,10};
