@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d19df395-d4ae-476a-930c-b183779d3774" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearch/FindFirstAndLastInSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/FindFirstAndLastInSorted.java" afterDir="false" />
-    </list>
+    <list default="true" id="d19df395-d4ae-476a-930c-b183779d3774" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,11 +59,53 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/two_pointers/maxArea.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
               <caret line="21" column="19" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="21" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/movingwindow/MinimumSizeSubarraySum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/movingwindow/LengthOfLongestSubstring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/movingwindow/MinimumWindowSubstring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="39" column="54" lean-forward="true" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/array/movingwindow/SubarrayProductLessThanK.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -92,10 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BinarySearch/FirstBadVersion.java" />
-        <option value="$PROJECT_DIR$/src/DivideAndConquer/DiffWaysToAddParentheses.java" />
-        <option value="$PROJECT_DIR$/src/Mathematics/CountPrimes.java" />
-        <option value="$PROJECT_DIR$/src/Mathematics/gcd.java" />
         <option value="$PROJECT_DIR$/src/Mathematics/Base7.java" />
         <option value="$PROJECT_DIR$/src/DivideAndConquer/UniqueBSTII.java" />
         <option value="$PROJECT_DIR$/src/Mathematics/Base16.java" />
@@ -143,6 +177,10 @@
         <option value="$PROJECT_DIR$/src/two_pointers/ValidPalindromeII.java" />
         <option value="$PROJECT_DIR$/src/two_pointers/LinkedListCycleII.java" />
         <option value="$PROJECT_DIR$/src/two_pointers/maxArea.java" />
+        <option value="$PROJECT_DIR$/src/array/movingwindow/MinimumSizeSubarraySum.java" />
+        <option value="$PROJECT_DIR$/src/array/movingwindow/LengthOfLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/src/array/movingwindow/MinimumWindowSubstring.java" />
+        <option value="$PROJECT_DIR$/src/array/movingwindow/SubarrayProductLessThanK.java" />
       </list>
     </option>
   </component>
@@ -177,7 +215,14 @@
               <item name="leetcodetrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcodetrain" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="two_pointers" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodetrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodetrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="movingwindow" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,7 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Hanoi">
+  <component name="RunManager" selected="JUnit.SubarrayProductLessThanK.sometest">
     <configuration name="Hanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mathematics.Hanoi" />
       <module name="leetcodetrain" />
@@ -236,48 +281,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecodeWays.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LengthOfLongestSubstring.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcodetrain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dynamic_programming.*" />
+          <option name="PATTERN" value="array.movingwindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="dynamic_programming" />
-      <option name="MAIN_CLASS_NAME" value="dynamic_programming.DecodeWays" />
+      <option name="PACKAGE_NAME" value="array.movingwindow" />
+      <option name="MAIN_CLASS_NAME" value="array.movingwindow.LengthOfLongestSubstring" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueBSTII.sometest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MinimumSizeSubarraySum.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcodetrain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DivideAndConquer.*" />
+          <option name="PATTERN" value="array.movingwindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DivideAndConquer" />
-      <option name="MAIN_CLASS_NAME" value="DivideAndConquer.UniqueBSTII" />
-      <option name="METHOD_NAME" value="sometest" />
+      <option name="PACKAGE_NAME" value="array.movingwindow" />
+      <option name="MAIN_CLASS_NAME" value="array.movingwindow.MinimumSizeSubarraySum" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gcd.sometest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SubarrayProductLessThanK.sometest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcodetrain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Mathematics.*" />
+          <option name="PATTERN" value="array.movingwindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Mathematics" />
-      <option name="MAIN_CLASS_NAME" value="Mathematics.gcd" />
+      <option name="PACKAGE_NAME" value="array.movingwindow" />
+      <option name="MAIN_CLASS_NAME" value="array.movingwindow.SubarrayProductLessThanK" />
       <option name="METHOD_NAME" value="sometest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -286,11 +331,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SubarrayProductLessThanK.sometest" />
+        <item itemvalue="JUnit.LengthOfLongestSubstring.test" />
+        <item itemvalue="JUnit.MinimumSizeSubarraySum.test" />
         <item itemvalue="Application.Hanoi" />
         <item itemvalue="JUnit.DecodeWays" />
-        <item itemvalue="JUnit.DecodeWays.test" />
-        <item itemvalue="JUnit.gcd.sometest" />
-        <item itemvalue="JUnit.UniqueBSTII.sometest" />
       </list>
     </recent_temporary>
   </component>
@@ -312,44 +357,44 @@
       <workItem from="1564971468009" duration="85114000" />
       <workItem from="1565835305752" duration="9425000" />
       <workItem from="1565936198200" duration="2737000" />
-      <workItem from="1568950818725" duration="18840000" />
+      <workItem from="1568950818725" duration="24914000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UniqueBSTII_sometest - 2019.08.15 at 15h 57m 13s.xml">
-      <configuration name="UniqueBSTII.sometest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="gcd_sometest - 2019.08.15 at 16h 45m 10s.xml">
-      <configuration name="gcd.sometest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="gcd_sometest - 2019.08.15 at 16h 45m 22s.xml">
-      <configuration name="gcd.sometest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="gcd_sometest - 2019.08.15 at 16h 52m 56s.xml">
-      <configuration name="gcd.sometest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DecodeWays_test - 2019.08.22 at 10h 41m 04s.xml">
-      <configuration name="DecodeWays.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DecodeWays_test - 2019.08.22 at 10h 41m 07s.xml">
-      <configuration name="DecodeWays.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DecodeWays_test - 2019.08.22 at 11h 05m 20s.xml">
-      <configuration name="DecodeWays.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DecodeWays_test - 2019.08.22 at 11h 06m 45s.xml">
-      <configuration name="DecodeWays.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DecodeWays - 2019.08.22 at 11h 09m 14s.xml">
       <configuration name="DecodeWays" configurationId="JUnit" />
     </history-entry>
     <history-entry file="DecodeWays_test - 2019.08.26 at 20h 36m 39s.xml">
       <configuration name="DecodeWays.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MinimumSizeSubarraySum_test - 2019.09.24 at 12h 19m 26s.xml">
+      <configuration name="MinimumSizeSubarraySum.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinimumSizeSubarraySum_test - 2019.09.24 at 12h 22m 11s.xml">
+      <configuration name="MinimumSizeSubarraySum.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LengthOfLongestSubstring_test - 2019.09.24 at 13h 54m 21s.xml">
+      <configuration name="LengthOfLongestSubstring.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LengthOfLongestSubstring_test - 2019.09.24 at 13h 54m 43s.xml">
+      <configuration name="LengthOfLongestSubstring.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LengthOfLongestSubstring_test - 2019.09.24 at 13h 57m 36s.xml">
+      <configuration name="LengthOfLongestSubstring.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LengthOfLongestSubstring_test - 2019.09.24 at 13h 57m 50s.xml">
+      <configuration name="LengthOfLongestSubstring.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LengthOfLongestSubstring_test - 2019.09.24 at 13h 58m 05s.xml">
+      <configuration name="LengthOfLongestSubstring.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LengthOfLongestSubstring_test - 2019.09.24 at 13h 58m 29s.xml">
+      <configuration name="LengthOfLongestSubstring.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="193455000" />
+    <option name="totallyTimeSpent" value="199529000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -364,7 +409,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -375,11 +420,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.329718" />
@@ -400,6 +445,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/movingwindow/SubarrayProductLessThanK.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
       <expression>
@@ -410,38 +467,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/dynamic_programming/OnesAndZeros.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamic_programming/CoinChange2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamic_programming/CoinChange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamic_programming/TargetSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
-          <folding>
-            <element signature="e#1123#1124#0" expanded="true" />
-            <element signature="e#1159#1160#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dynamic_programming/PartitionEqualSubsetSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -788,6 +813,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="21" column="19" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/movingwindow/MinimumSizeSubarraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/movingwindow/LengthOfLongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/movingwindow/MinimumWindowSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="39" column="54" lean-forward="true" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/movingwindow/SubarrayProductLessThanK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="36" />
         </state>
       </provider>
     </entry>
