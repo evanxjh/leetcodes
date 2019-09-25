@@ -7,6 +7,8 @@ package strings;
  * @createTime 2019-08-05- 14:28
  */
 
+import java.util.HashMap;
+
 /**
  * Given two strings s and t, determine if they are isomorphic.
  *
@@ -31,6 +33,31 @@ public class IsomorphicStrings {
             }
             preorderOfs[sc]=i+1;
             preorderOft[tc]=i+1;
+        }
+        return true;
+    }
+
+    //将字母用HashMap映射起来
+    public boolean solution2(String s,String t){
+        if (s.length()!=t.length()){
+            return false;
+        }
+        HashMap<Character,Character> map=new HashMap<>();
+        for (int i=0;i<s.length();i++){
+            char sc=s.charAt(i);
+            char tc=t.charAt(i);
+            if (map.containsKey(sc)){
+                if (tc==map.get(sc)){
+                    continue;
+                }else {
+                    return false;
+                }
+            } else{
+                if (map.containsValue(tc)){
+                    return false;
+                }
+                map.put(sc,tc);
+            }
         }
         return true;
     }

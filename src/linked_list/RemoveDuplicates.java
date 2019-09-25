@@ -8,6 +8,7 @@ package linked_list;
  **/
 
 import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
 
 /**
@@ -54,4 +55,17 @@ public class RemoveDuplicates {
             return head;
         }
     }
+
+    public ListNode removeDuplicates2(ListNode head){
+        if (head==null || head.next==null){
+            return head;
+        }
+        if (head.val==head.next.val){
+            return removeDuplicates2(head.next);
+        } else {
+            head.next=removeDuplicates2(head.next);
+            return head;
+        }
+    }
 }
+

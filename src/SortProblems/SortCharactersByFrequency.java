@@ -14,6 +14,11 @@ import java.util.*;
 /**
  * radix sort
  */
+/*
+ * 有两种对应方法：
+ * 1、用HashMap记录字符和频数的映射，并用KeySet将字符添加到List<Character>类型的数组中。
+ * 2、用int数组记录字符对应的频数，并用TreeMap记录频数和List<Character>的映射。
+ */
 public class SortCharactersByFrequency {
     public String frequencySort(String s){
         int n=s.length();
@@ -63,4 +68,5 @@ public class SortCharactersByFrequency {
         }
         return bf.toString();
     }
+
 }
