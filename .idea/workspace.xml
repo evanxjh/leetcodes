@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d19df395-d4ae-476a-930c-b183779d3774" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodetrain/DataStructure/CourseScheduleII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcodetrain/DataStructure/CourseScheduleII.class" afterDir="false" />
-    </list>
+    <list default="true" id="d19df395-d4ae-476a-930c-b183779d3774" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,11 +41,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/strings/StringCompression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+            <state relative-caret-position="418">
+              <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/strings/CustomSortString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="17" column="51" lean-forward="true" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/strings/NumberOfLines.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/strings/ExpressiveWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -75,9 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/dynamic_programming/keysKeyboard.java" />
-        <option value="$PROJECT_DIR$/src/linked_list/RemoveLinkedListElements.java" />
-        <option value="$PROJECT_DIR$/src/linked_list/ReverseLinkedList.java" />
         <option value="$PROJECT_DIR$/src/Mathematics/Hanoi.java" />
         <option value="$PROJECT_DIR$/src/array/MoveZeros.java" />
         <option value="$PROJECT_DIR$/src/array/DegreeOfAnArray.java" />
@@ -126,6 +150,9 @@
         <option value="$PROJECT_DIR$/src/strings/NumberOfSegmentsInString.java" />
         <option value="$PROJECT_DIR$/src/strings/FirstUniqueCharacter.java" />
         <option value="$PROJECT_DIR$/src/strings/StringCompression.java" />
+        <option value="$PROJECT_DIR$/src/strings/CustomSortString.java" />
+        <option value="$PROJECT_DIR$/src/strings/NumberOfLines.java" />
+        <option value="$PROJECT_DIR$/src/strings/ExpressiveWords.java" />
       </list>
     </option>
   </component>
@@ -203,7 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.ExpressiveWords.test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dynamic_programming.Main" />
       <module name="leetcodetrain" />
@@ -265,17 +292,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HappyNumber.sometest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExpressiveWords.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcodetrain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Search.*" />
+          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Search" />
-      <option name="MAIN_CLASS_NAME" value="Search.HappyNumber" />
-      <option name="METHOD_NAME" value="sometest" />
+      <option name="PACKAGE_NAME" value="strings" />
+      <option name="MAIN_CLASS_NAME" value="strings.ExpressiveWords" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -283,11 +310,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ExpressiveWords.test" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.CourseScheduleII.test" />
         <item itemvalue="JUnit.ExamRoom.testTreeSet" />
         <item itemvalue="JUnit.ExamRoom.test" />
-        <item itemvalue="JUnit.HappyNumber.sometest" />
       </list>
     </recent_temporary>
   </component>
@@ -310,20 +337,11 @@
       <workItem from="1565835305752" duration="9425000" />
       <workItem from="1565936198200" duration="2737000" />
       <workItem from="1568950818725" duration="67428000" />
-      <workItem from="1570258104874" duration="1671000" />
+      <workItem from="1570258104874" duration="5242000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ExamRoom_test - 2019.09.25 at 14h 35m 36s.xml">
-      <configuration name="ExamRoom.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ExamRoom_test - 2019.09.25 at 14h 36m 24s.xml">
-      <configuration name="ExamRoom.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ExamRoom_test - 2019.09.25 at 14h 37m 45s.xml">
-      <configuration name="ExamRoom.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ExamRoom_test - 2019.09.25 at 14h 38m 41s.xml">
       <configuration name="ExamRoom.test" configurationId="JUnit" />
     </history-entry>
@@ -345,9 +363,18 @@
     <history-entry file="CourseScheduleII_test - 2019.09.25 at 20h 29m 08s.xml">
       <configuration name="CourseScheduleII.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ExpressiveWords_test - 2019.10.05 at 16h 10m 53s.xml">
+      <configuration name="ExpressiveWords.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExpressiveWords_test - 2019.10.05 at 16h 12m 04s.xml">
+      <configuration name="ExpressiveWords.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExpressiveWords_test - 2019.10.05 at 16h 15m 47s.xml">
+      <configuration name="ExpressiveWords.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243714000" />
+    <option name="totallyTimeSpent" value="247285000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -362,7 +389,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26492536" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26492536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -372,11 +399,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.35103926" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.329718" />
@@ -413,6 +440,12 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/strings/ExpressiveWords.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -426,30 +459,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/SearchInRotatedSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/FindMinRotatedSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/FindFirstAndLastInSorted.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-70">
-          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BinarySearch/FindSmallestGreaterThanTarget.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
@@ -834,8 +843,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/strings/StringCompression.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        <state relative-caret-position="418">
+          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strings/CustomSortString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="17" column="51" lean-forward="true" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strings/NumberOfLines.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strings/ExpressiveWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
