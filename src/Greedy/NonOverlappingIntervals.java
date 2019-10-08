@@ -36,4 +36,35 @@ public class NonOverlappingIntervals {
         }
         return intervals.length-cnt;
     }
+
+
+    //动态规划解法：按区间开始值排序，转为最长上升子序列问题
+    public int eraseOverlapInterval(int[][] intervals){
+        int n=intervals.length;
+        if (n==0){
+            return 0;
+        }
+        Arrays.sort(intervals, new Comparator<int[]>() {
+            @Override
+            public int compare(int[] o1, int[] o2) {
+                return o1[0]==o2[0]?o1[1]-o2[1]:o1[0]-o2[0];
+            }
+        });
+        int[] memo=new int[n];
+        for (int i=0;i<n;i++){
+            memo[i]=1;
+        }
+        for (int i=1;i<n;i++){
+            for (int j=0;j<i;j++){
+                if (intervals[i][0]>=intervals[j][1]){
+                    memo[i]=Math.max(memo[i],memo[j]+1);
+                }
+            }
+        }
+        int res=0;
+        for (int i=0;i<n;i++){
+            res=Math.max(res,memo[i]);
+        }
+        return res;
+    }
 }

@@ -13,6 +13,7 @@ import java.util.Comparator;
 /**
  * 气球在一个水平数轴上摆放，可以重叠,飞镖垂直投降坐标轴，使得路径上的气球都被刺破，求最少投掷次数，刺破全部气球
  */
+//区间选点问题
 //贪心策略：计算不重叠区间个数，只不过[1,2]和[2,3]算是重叠的区间
 public class MinimumNumberOfArrowsBalloons {
     public int findMinArrowShots(int[][] points){
