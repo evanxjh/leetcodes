@@ -25,7 +25,7 @@ public class WordLadder {
         while (end<n && !wordList.get(end).equals(endWord)){
             end++;
         }
-        if (end==n){       //全是endWord
+        if (end==n){       //全不是endWord
             return 0;
         }
         List<Integer>[] graphic=buildGraph(wordList);
