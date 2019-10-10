@@ -12,6 +12,7 @@ package Tree;
  * p and q are different and both values will exist in the BST.
  */
 public class BSTLowestCommonAncestor {
+        //针对非BST仍然有效
     public TreeNode lowestCommonAncestor(TreeNode root,TreeNode p,TreeNode q){
         if (root==null || root==p || root==q) return root;
         TreeNode left=lowestCommonAncestor(root.left,p,q);
